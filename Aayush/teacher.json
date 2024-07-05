@@ -1,0 +1,34 @@
+[
+   {
+      "Name": "Suresh Koju",
+      "Address": "Kathmandu",
+      "Email": "sk@gmail.com",
+      "Subject": "Maths",
+      "ID": 1,
+      "Phone": 9864735477
+   },
+   {
+      "Name": "Damodar Baral",
+      "Address": "Bhaktapur",
+      "Email": "Damuji@gmail.com",
+      "Subject": "Physics",
+      "ID": 2,
+      "Phone": 9865735476
+   },
+   {
+      "Name": "Mahesh Tyata",
+      "Address": "Lalitpur",
+      "Email": "maty@gmail.com",
+      "Subject": "Chemistry",
+      "ID": 3,
+      "Phone": 9861716377
+   },
+   {
+      "Name": "Ramesh Gurung",
+      "Address": "Makwanpur",
+      "Email": "gura@gmail.com",
+      "Subject": "Biology",
+      "ID": 5,
+      "Phone": 9864728373
+   }
+]

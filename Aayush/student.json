@@ -1,0 +1,44 @@
+[
+   {
+      "Name": "Ram Bista",
+      "Address": "Kathmandu",
+      "Email": "ram@gmail.com",
+      "Marks": [
+         83.0,
+         82.0,
+         81.0,
+         90.0,
+         98.0
+      ],
+      "Roll": 1,
+      "Phone": 9876453451
+   },
+   {
+      "Name": "Shyam Kafle",
+      "Address": "Okhaldhunga",
+      "Email": "hyams@gmail.com",
+      "Marks": [
+         77.0,
+         67.0,
+         34.0,
+         89.0,
+         90.0
+      ],
+      "Roll": 2,
+      "Phone": 9886486782
+   },
+   {
+      "Name": "Hari Bhusal",
+      "Address": "Bhaktapur",
+      "Email": "harry@gmail.com",
+      "Marks": [
+         54.0,
+         87.0,
+         86.0,
+         23.0,
+         98.0
+      ],
+      "Roll": 3,
+      "Phone": 9876543457
+   }
+]
